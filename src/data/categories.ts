@@ -1,0 +1,20 @@
+export const productCategories = [
+  { id: 'large-kiddie', title: '大型搖馬', img: 'https://static.wixstatic.com/media/8bf147_e727b1c967934fca8120d731959bf8ed.png' },
+  { id: 'small-kiddie', title: '中小型搖馬', img: 'https://static.wixstatic.com/media/8bf147_d1181751b9ef4af6bc3bcd7a9a06243b.png' },
+  { id: 'screen-kiddie', title: '螢幕搖搖馬', img: 'https://static.wixstatic.com/media/8bf147_776c0f25f2bd41098cac8c7cdf372d46.png' },
+  { id: 'trains', title: '火車類', img: 'https://static.wixstatic.com/media/8bf147_b4a752474db743b0a64e438d72d4cc59.png' },
+  { id: 'carousel', title: '旋轉木馬與木馬款式', img: 'https://static.wixstatic.com/media/8bf147_55b78b4cbad748f5a442c9d745586a72.png' },
+  { id: 'themed-rides', title: '主題式與進口搖馬', img: 'https://static.wixstatic.com/media/8bf147_7663002d0501416ca036c9057983d3ea.png' },
+  { id: 'animals-bumpers', title: '動物走路與碰碰車', img: 'https://static.wixstatic.com/media/8bf147_a81d5ec6db5a42fcbec6ae84ae3909b7.png' },
+  { id: 'prize-machines', title: '禮品機', img: 'https://static.wixstatic.com/media/8bf147_c7d0aa2d14eb4eddbeee9da63feaef9e.png' },
+  { id: 'parent-child', title: '親子類', img: 'https://static.wixstatic.com/media/8bf147_08accdde291a4c07b8dd02db952d3926.png' },
+  { id: 'air-hockey', title: '曲棍球', img: 'https://static.wixstatic.com/media/8bf147_3c675d1c8ab441bb88a0f5bb502718d8.png' },
+  { id: 'music', title: '音樂類', img: 'https://static.wixstatic.com/media/8bf147_80cc400f8c944553b57c3734b7929f32.png' },
+  { id: 'claw-machines', title: '選物販賣機', img: 'https://static.wixstatic.com/media/8bf147_3fd6d6c2d2a643c2a7f91fb2b289e39a.png' },
+  { id: 'sports', title: '運動機台', img: 'https://static.wixstatic.com/media/8bf147_e0de01ca2a2340a085e6e43cdc0d9c21.png' },
+  { id: 'interactive', title: '互動類', img: 'https://static.wixstatic.com/media/8bf147_7e9d185be8e74cb1a0b053f95f30562c.png' },
+  { id: 'racing', title: '賽車類', img: 'https://static.wixstatic.com/media/8bf147_155bee3617a74ebfb59d9e2c85a2ca77.png' },
+  { id: 'shooting', title: '射擊類', img: 'https://static.wixstatic.com/media/8bf147_6dda9c15f7f6499494d52677396f6ada.png' },
+  { id: 'tokens', title: '兌幣機', img: 'https://static.wixstatic.com/media/8bf147_0929f0658fe54eb99c5b2bdb2c4ab2a7.png' },
+  { id: 'used', title: '中古機台', img: 'https://static.wixstatic.com/media/8bf147_334796c00d9a4d81ae9795f6e26af543.png' }
+];

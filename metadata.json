@@ -1,0 +1,6 @@
+{
+  "name": "奧特龍 Auto-Land | 專業親子遊樂設備",
+  "description": "提供機台擺設、活動租賃、客製化製作、中古與全新遊戲機台販售的專業親子遊樂設備品牌。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
